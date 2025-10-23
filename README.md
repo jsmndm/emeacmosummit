@@ -1,4 +1,3 @@
-# emeacmosummit
 <!DOCTYPE html>
 <html>
 <head>
